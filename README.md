@@ -36,5 +36,16 @@ Deploying the smartcontract
 
 > npx hardhat run --network mantle-testnet scripts/deploy.js
 
+The smartcontract deployment address you recieved copy it.
+
+Make a .env in project similar to .env.example.
+
+Paste your secret private key.
+
+Also, add the contract adress you got after deploying.
+
+The contract address also needs to be added in main.js file on line 2.
+
+
 Running the localhost:3000
 >node index.js
