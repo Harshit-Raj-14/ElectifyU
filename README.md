@@ -14,6 +14,12 @@
   </h4> 
 </div>
 
+## Built
+Submission for : Lumos Innovate-a-thon
+
+Built by : Harshit Raj
+
+
 ## Tech Stack
 Latest tech stack used - 
 
@@ -21,10 +27,6 @@ Frontend - React.js, Taiwind CSS, ether.js
 
 Backend - Node.js, Express.js, Solidity, Ethereum
 
-## Built
-Submission for : Lumos Innovate-a-thon
-
-Built by : Harshit Raj
 
 ## Getting Started
 
